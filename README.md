@@ -1,6 +1,6 @@
 # 🤖 Legacy Code Modernizer - Autonomous AI Agent
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue.svg)](https://huggingface.co/spaces/MCP-1st-Birthday/legacy_code_modernizer)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue.svg)](https://huggingface.co/spaces)
 [![Open in Spaces](https://img.shields.io/badge/Live%20Demo-Open%20in%20Spaces-brightgreen)](https://huggingface.co/spaces/MCP-1st-Birthday/legacy_code_modernizer)
 
 **Track 2: MCP in Action - Enterprise Applications**
@@ -70,8 +70,8 @@ The agent uses **4 MCP servers** as autonomous tools:
 
 ```bash
 # Clone repository
-git clone https://huggingface.co/spaces/MCP-1st-Birthday/legacy_code_modernizer
-cd legacy_code_modernizer
+git clone https://huggingface.co/spaces/MCP-1st-Birthday/legacy_code_modernizer_agent
+cd legacy_code_modernizer_agent
 
 # Set up environment variables
 cp .env.example .env
